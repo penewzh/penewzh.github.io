@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Simple</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-05-25T02:29:15.508Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Penewzh</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一篇记录</title>
+    <link href="http://example.com/2021/05/25/%E7%AC%AC%E4%B8%80%E7%AF%87%E8%AE%B0%E5%BD%95/"/>
+    <id>http://example.com/2021/05/25/%E7%AC%AC%E4%B8%80%E7%AF%87%E8%AE%B0%E5%BD%95/</id>
+    <published>2021-05-25T02:26:16.000Z</published>
+    <updated>2021-05-25T02:29:15.508Z</updated>
+    
+    <content type="html"><![CDATA[<html><head></head><body><h2 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h2><p>毕业论文写完了，没有什么事做的时候，做了这个东西。正是有无数的热爱开源的人，才能够很快的完成这件事。</p></body></html>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;h2 id=&quot;开始&quot;&gt;&lt;a href=&quot;#开始&quot; class=&quot;headerlink&quot; title=&quot;开始&quot;&gt;&lt;/a&gt;开始&lt;/h2&gt;&lt;p&gt;毕业论文写完了，没有什么事做的时候，做了这个东西。正是有无数的热爱开源的人，才能够很快的完</summary>
+      
+    
+    
+    
+    
+    <category term="记录" scheme="http://example.com/tags/%E8%AE%B0%E5%BD%95/"/>
+    
+  </entry>
+  
+</feed>
